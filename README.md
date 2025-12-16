@@ -62,13 +62,13 @@ where:
 ## 📊 Key Results
 
 ### Displacement Evolution
-![Displacement](Images/displacement_evolution.png)
+![Displacement](Images/AL_W.png)
 
 ### Spatial Convergence (O(Δx²))
-![Spatial Convergence](Images/spatial_convergence.png)
+![Spatial Convergence](Spatial_Error.png)
 
 ### Stress Distribution
-![Stress](Images/stress_xx.png)
+![Stress](Images/Sxx_SS.png)
 
 ---
 
