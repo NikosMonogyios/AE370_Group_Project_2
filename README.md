@@ -65,10 +65,12 @@ where:
 ![Displacement](Images/AL_W.png)
 
 ### Spatial Convergence (O(Δx²))
-![Spatial Convergence](Spatial_Error.png)
+![Spatial Convergence](Images/Spatial_Error.png)
+### Temporal Convergence (O(Δt²))
+![Spatial Convergence](Images/Temporal Error.png)
 
 ### Stress Distribution
-![Stress](Images/Sxx_SS.png)
+![Stress](Images/Sxx_SS.png)(Images/Sxy_SS.png)
 
 ---
 
