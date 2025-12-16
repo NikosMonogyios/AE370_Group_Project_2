@@ -67,10 +67,12 @@ where:
 ### Spatial Convergence (O(Δx²))
 ![Spatial Convergence](Images/Spatial_Error.png)
 ### Temporal Convergence (O(Δt²))
-![Spatial Convergence](Images/Temporal Error.png)
+![Spatial Convergence](Images/Temporal error.png)
 
 ### Stress Distribution
-![Stress](Images/Sxx_SS.png)(Images/Sxy_SS.png)
+![Stress](Images/Sxx_SS.png)
+![Stress](Images/Syy_SS.png)
+![Stress](Images/Sxy_SS.png)
 
 ---
 
