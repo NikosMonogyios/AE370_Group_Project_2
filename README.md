@@ -92,7 +92,7 @@ pip install numpy scipy matplotlib
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/AE370_Plate_Dynamics.git
+git https://github.com/NikosMonogyios/AE370_Group_Project_2.git
 cd AE370_Plate_Dynamics
 ```
 
